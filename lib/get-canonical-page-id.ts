@@ -14,6 +14,8 @@ export function getCanonicalPageId(
   const cleanPageId = parsePageId(pageId, { uuid: false })
   if (!cleanPageId) {
     return null
+  } else {
+    return cleanPageId
   }
 
   const override = inversePageUrlOverrides[cleanPageId]
