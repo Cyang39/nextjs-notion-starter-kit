@@ -62,7 +62,7 @@
   display: none;
 }
 
-.notion-page-icon-inline .notion-page-icon-image span{
+.notion-page-icon-inline span {
   width: 100%!important;
   height: 100%!important;
 }
