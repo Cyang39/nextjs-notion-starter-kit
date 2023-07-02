@@ -62,6 +62,11 @@
   display: none;
 }
 
+.notion-page-icon-inline .notion-page-icon-image span{
+  width: 100%!important;
+  height: 100%!important;
+}
+
 .notion-gallery-grid .notion-page-title-text {
   font-size: 2em;
   white-space: unset;

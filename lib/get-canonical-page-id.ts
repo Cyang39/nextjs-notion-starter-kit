@@ -15,7 +15,7 @@ export function getCanonicalPageId(
   if (!cleanPageId) {
     return null
   } else {
-    return cleanPageId
+    return cleanPageId.slice(0, 6)
   }
 
   const override = inversePageUrlOverrides[cleanPageId]
