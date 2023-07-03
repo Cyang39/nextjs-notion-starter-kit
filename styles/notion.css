@@ -352,7 +352,7 @@
 }
 
 .dark-mode .notion-inline-code {
-  color: rgb(48, 102, 48);
+  color: lightblue!important;
 }
 
 /* if you don't want rounded page icon images, remove this */
