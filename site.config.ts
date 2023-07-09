@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Cyang39\'s Notebook',
+  name: '邃境',
   domain: 'note.hqy.life',
   author: 'Cyang39',
 
