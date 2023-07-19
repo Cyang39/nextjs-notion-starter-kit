@@ -408,3 +408,8 @@
 .notion-equation {
   overflow-y: hidden;
 }
+
+/* =============================== My Custom @Cyang39 =============================== */
+.notion-page-content {
+  max-width: 100%;
+}
