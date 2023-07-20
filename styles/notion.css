@@ -413,3 +413,7 @@
 .notion-page-content {
   max-width: 100%;
 }
+
+.notion-page-content-has-toc {
+  max-width: 100vw!important;
+}
